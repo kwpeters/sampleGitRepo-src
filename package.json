@@ -1,0 +1,19 @@
+{
+  "name": "sample-git-repo",
+  "version": "1.2.3",
+  "description": "A sample project to test programatic manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwpeters/sampleGitRepo.git"
+  },
+  "author": "Kevin Peters <kwpeters+spam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwpeters/sampleGitRepo/issues"
+  },
+  "homepage": "https://github.com/kwpeters/sampleGitRepo#readme"
+}
