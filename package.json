@@ -1,5 +1,5 @@
 {
-  "name": "sample-git-repo",
+  "name": "sampleGitRepo-src",
   "version": "1.2.3",
   "description": "A sample project to test programatic manipulation",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kwpeters/sampleGitRepo.git"
+    "url": "https://github.com/kwpeters/sampleGitRepo-src.git"
   },
   "author": "Kevin Peters <kwpeters+spam@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kwpeters/sampleGitRepo/issues"
+    "url": "https://github.com/kwpeters/sampleGitRepo-src/issues"
   },
-  "homepage": "https://github.com/kwpeters/sampleGitRepo#readme"
+  "homepage": "https://github.com/kwpeters/sampleGitRepo-src#readme"
 }
